@@ -1,0 +1,1 @@
+[19-Apr-2021 11:40:29 UTC] PHP Warning:  copy(/var/cache/.wp/core/wordpress-5.7.1-en_US.tar.gz): failed to open stream: Permission denied in phar:///usr/local/bin/wp-cli-2.4.0.phar/vendor/wp-cli/wp-cli/php/WP_CLI/FileCache.php on line 165
